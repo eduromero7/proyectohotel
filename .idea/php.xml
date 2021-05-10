@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/extensiones/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/composer" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/mercadopago/dx-php" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/extensiones/vendor/guzzlehttp/promises" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
